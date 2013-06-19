@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.example"
+        versionCode="1" 
+        version   = "0.5.0-dev-1">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Bars de Limoges</name>
+
+    <description>
+        Une application utile pour savoir ou sortir.
+    </description>
+
+    <author href="https://ryxeuf.fr" email="ryxeufmedia@gmail.com">
+        Ryxeuf
+    </author>
+
+</widget>
